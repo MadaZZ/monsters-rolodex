@@ -1,4 +1,10 @@
 # Monsters Rolodex
+A react app that fetches and display a list of monsters in cards.
+You can search the monsters of your choice with the search bar too.
+
+### [View Live](https://madazz.github.io/monsters-rolodex/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
